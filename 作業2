@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" author="張尹伶" description="程式語言作業">
+    </head>
+    <body>
+        <a href="index.html" >回首頁</a>
+        <table width="300" border="1">
+            <caption>作業2:HTML表格</caption>
+            <tr>
+                <td rowspan="3"><img src="https://cdn.discordapp.com/attachments/899712938691158017/1026508414538493992/IMG_9364.png" width="100" height="100"></td>
+                <td>班級</td>
+                <TD>資工二甲</TD>
+            </tr>
+            <tr>
+                <td>姓名</td>
+                <TD>張尹伶</TD>
+
+            </tr>
+            <tr>
+                <td>學號</td>
+                <td>1111032009</td>
+            </tr>
+        </table>
+         
+
+    </body>
+</html>
