@@ -1,0 +1,89 @@
+a {
+    color: white;
+    text-decoration:none;
+    font-size: 20px;
+}
+
+a1 {
+    color: #243135;
+    text-decoration:none;
+    font-size: 30px;
+}
+
+header {
+    width: auto;
+    height: 13.5vh;
+    
+    
+    background-color:#4f8191;
+
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.title {
+    margin-left: 50px;
+    flex-grow: 1;
+    text-align: left;
+
+    color: white;
+    font-size: 35px;
+}
+
+.title-icon-group {
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.home,.hw,.介紹 {
+    margin: 5px;
+    color: white;
+    padding-top: 45px;
+}
+
+.homework{
+    color: #243135;
+    position: relative;
+    top: 150px;
+}
+
+.wel{
+    color: white;
+    font-size: 35px;
+
+    position: relative;
+    top: 185px;
+}
+
+.photo{
+    position: relative;
+    top: 250px;
+    left: 430px;
+}
+
+.abme{
+    color: #243135;
+    font-size: 20px;
+
+    position: fixed;
+    top: 250px;
+    right: 400px;
+}
+
+.been{
+    position: fixed;
+    top: 200px;
+    right: 50%;
+}
+
+.there{
+    color: #243135;
+    position: fixed;
+    top: 550px;
+    left: 520px;
+}
